@@ -1,0 +1,6 @@
+﻿  EECE2080C - Lab1.cpp
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE2080C - Lab1\EECE2080C - Lab1\EECE2080C - Lab1.cpp(183,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE2080C - Lab1\EECE2080C - Lab1\EECE2080C - Lab1.cpp(207,89): warning C4101: 'Num7': unreferenced local variable
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE2080C - Lab1\EECE2080C - Lab1\EECE2080C - Lab1.cpp(207,103): warning C4101: 'Num8': unreferenced local variable
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE2080C - Lab1\EECE2080C - Lab1\EECE2080C - Lab1.cpp(207,75): warning C4101: 'Num6': unreferenced local variable
+  EECE2080C - Lab1.vcxproj -> C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE2080C - Lab1\x64\Debug\EECE2080C - Lab1.exe
